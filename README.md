@@ -1,1 +1,1 @@
-further2048-java
+2048 with A.I. Java project from 2016
